@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Killua.
+- 👋 Hi, I’m Killua and I'm a FiveM Developer.
 - 👀 I’m interested in scripting.
 - 🌱 I’m scripting on JavaScript, Lua, C## and html.
