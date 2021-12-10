@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Killua.
+- 👀 I’m interested in scripting.
+- 🌱 I’m scripting on JavaScript, Lua, C## and html.
